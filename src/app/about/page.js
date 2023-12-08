@@ -1,3 +1,3 @@
 export default function Page() {
-  return <div>MDX</div>;
+  return <div>about</div>;
 }
